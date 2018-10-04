@@ -1,0 +1,16 @@
+{
+  "name": "authorization",
+  "version": "1.0.0",
+  "main": "app.js",
+  "repository": "git@github.com:Moskowitza/authorization.git",
+  "author": "moskowitza <moskowitzaaron@mac.com>",
+  "license": "MIT",
+  "dependencies": {
+    "bcrypt": "^3.0.1",
+    "body-parser": "^1.18.3",
+    "connect-mongo": "^2.0.1",
+    "express": "^4.16.3",
+    "express-session": "^1.15.6",
+    "mongoose": "^5.3.1"
+  }
+}
